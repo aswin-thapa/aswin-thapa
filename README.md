@@ -4,13 +4,6 @@ I work primarily with Python, focusing on backend systems and applications.
 
 Most repositories consist of small, complete projects that are iteratively refined to improve structure and maintainability.
 
-## Selected Work
-- Typing Performance Service  
-- Weather App  
-- Number Guessing Game  
-- Riddle Game  
-- Cricket Scoreboard  
-
 ## Current Focus
 Strengthening backend fundamentals and improving code structure through hands-on projects.
 
