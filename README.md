@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I’m Aswin Thapa.
 
-<!--
-**aswin-thapa/aswin-thapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work primarily with Python, focusing on backend systems and applications.
 
-Here are some ideas to get you started:
+Most repositories consist of small, complete projects that are iteratively refined to improve structure and maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work
+- Typing Performance Service  
+- Weather App  
+- Number Guessing Game  
+- Riddle Game  
+- Cricket Scoreboard  
+
+## Current Focus
+Strengthening backend fundamentals and improving code structure through hands-on projects.
+
+## Contact
+GitHub : https://github.com/aswin-thapa  
+Email  : aswinthapa21@gmail.com
